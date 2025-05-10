@@ -7,7 +7,7 @@
 - 🚀 Building real-world projects like **Loan Default Prediction**, **Churn Forecasting**, and more
 - 💬 Ask me about **Python, Machine Learning, and Data Visualization**
 - 👨‍💻 All of my projects are available at [My GitHub](https://github.com/Akashkc7)
-- 📫 How to reach me: **akashkc7@gmail.com**
+- 📫 How to reach me: **akashkc1999@gmail.com**
 - ⚡ Fun fact: I love blending code, creativity, and coffee!
 
 ---
@@ -31,5 +31,5 @@
 ---
 
 ### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/YOUR-LINK-HERE)
-[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashkc7@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-k-c)
+[![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashkc1999@gmail.com)
