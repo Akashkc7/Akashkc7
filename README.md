@@ -8,8 +8,8 @@
 - 🔍 Passionate about uncovering insights from data to drive business decisions.
 - 🧠 Experienced in Machine Learning, Statistical Analysis, and Data Visualization.
 - 💼 Worked on projects across Retail, E-commerce, BFSI, and Digital Marketing domains.
-- 🎓 Bachelor of Technology in Engineering from Bir Tikendrajit University.
-- 🌐 Languages: English, Hindi
+- 🎓 Bachelor of Technology in Electrical & Electronics Engineering from Bir Tikendrajit University.
+- 🌐 Languages: English, Hindi, Malayalam
 
 ---
 
