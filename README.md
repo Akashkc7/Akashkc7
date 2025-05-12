@@ -21,17 +21,6 @@
 - **Big Data**: Hadoop, PySpark
 - **Others**: Excel, Git, SEO
 
----
-
-### 📈 Projects
-
-- [Digital Music Store Data Analysis using SQL](https://github.com/Akashkc7/Digital-Music-Store-Data-Analysis-using-SQL): Analyzed music store data to identify business growth opportunities.
-- [Sales Data Analysis using Python](https://github.com/Akashkc7/Sales-Data-Analysis-using-Python): Performed exploratory data analysis to uncover sales trends.
-- [Power BI Sales Dashboard](https://github.com/Akashkc7/Power-BI-Sales-Dashboard): Designed a dashboard to track and analyze online sales data.
-- [Sales Forecast - Time Series Forecasting](https://github.com/Akashkc7/Sales-Forecast-Time-Series-Forecasting): Implemented ML models for retail sales forecasting.
-- [Customer Segmentation using Clustering](https://github.com/Akashkc7/Customer-Segmentation-using-Clustering): Developed a model to recommend financial products to target customer groups.
-
----
 
 ### 📫 Contact Me
 
