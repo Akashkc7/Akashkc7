@@ -27,7 +27,7 @@
 - 📍 Kochi, Kerala, India
 - 📧 Email: [akashkc1999@gmail.com](mailto:akashkc1999@gmail.com)
 - 📞 Phone: +91 6238659521
-- 🔗 [LinkedIn](https://www.linkedin.com/in/akash-k-c)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/akashkc7)
 - 📸 [Instagram](https://www.instagram.com/__a.ka_s.h__/)
 - 🌐 [Portfolio Website](https://akashkc7.github.io/portfolio/)
 
@@ -35,7 +35,7 @@
 
 ### 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akash-k-c)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/akashkc7)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__a.ka_s.h__/)
 [![Email](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:akashkc1999@gmail.com)
 
